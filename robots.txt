@@ -5,5 +5,4 @@
 User-agent: *
 Allow: /
 
-# After deployment, uncomment and replace with real sitemap URL:
-# Sitemap: https://example.com/sitemap.xml
+Sitemap: https://delta-techcare.vercel.app/sitemap.xml
